@@ -35,6 +35,5 @@ class LabsTestS(unittest.TestCase):
         self.assertIsNone(max_simple(s_orig))
 
 if __name__ == "__main__":
-
-    tests = LabsTestS()
+   
     unittest.main()
